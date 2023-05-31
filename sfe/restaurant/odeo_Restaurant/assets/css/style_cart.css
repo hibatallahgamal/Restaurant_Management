@@ -1,0 +1,8 @@
+body {
+    background: #eecda3;
+    background: linear-gradient(315deg, #ee7126 0%, #4d4949 94%);
+    background:linear-gradient(315deg, #ee7126 0%, #4d4949 94%);
+    min-height: 100vh;
+  }
+
+  
